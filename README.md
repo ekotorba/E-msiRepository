@@ -1,15 +1,15 @@
 Zadanie.
 
- Zaprojektuj stronę html, która będzie posiadała następujące elementy:
-a) Tytuł – Zadanie zdalne e-MSI
-b) Strona ma być podzielona na część lewą (25%) i prawą (75%)
+ Zaprojektuj stronę html, która będzie posiadała następujące elementy:<br>
+a) Tytuł – Zadanie zdalne e-MSI<br>
+b) Strona ma być podzielona na część lewą (25%) i prawą (75%)<br>
 c) W lewej części znajdzie się element div o id = ‘Lewy’ zawierający menu z linkami do kolejnych
-podstron:
-a. Różne kontrolki HTML
-b. Tabela Pracowników
-c. Tabela Faktur VAT
-d. Tabela Delegacji BD
-e. Dane Kontrahentów
+podstron:<br><br>
+a. Różne kontrolki HTML<br>
+b. Tabela Pracowników<br>
+c. Tabela Faktur VAT<br>
+d. Tabela Delegacji BD<br>
+e. Dane Kontrahentów<br>
 d) W prawej części znajdzie się element div o id = ‘Prawy’ zawierający w zależności od wybranej
 podstrony odpowiednie treści:
 a. Dla Różne kontrolki HTML:
@@ -51,13 +51,13 @@ Zadanie zdalne
 7. Kwota Brutto
 8. Wartość Netto
 9. Wartość Brutto
-ii. Wypełnij ją przykładowymi danymi dla co najmniej 5 pozycji faktury.
+ii. Wypełnij ją przykładowymi danymi dla co najmniej 5 pozycji faktury.<br>
 iii. Tabela powinna być interaktywna co oznacza, że Kwota Brutto, Wartość
 Netto i Wartość Brutto będą przeliczały się w zależności od Kwoty Netto,
-wybranego z listy Vatu oraz Ilości.
+wybranego z listy Vatu oraz Ilości.<br>
 iv. Przycisk Powyżej 1000,00 zł Netto – Po jego wciśnięciu wszystkie wiersze,
 które zawierają w polu Kwota Netto > 1000,00 zł podświetlają się na kolor
-zielony.
+zielony.<br>
 d. Dla Tabela Delegacji BD
 i. Utwórz tabelę o następujących kolumnach:
 1. Lp.
@@ -83,10 +83,10 @@ ii. Stwórz panel do zarządzania danymi:
 3. Usuwanie kontrahenta
 iii. Dane o kontrahentach mają być przechowywane w bazie danych.
 iv. Dodanie kontrahenta ma spowodować dodanie go do bazy danych i
-jednoczesne wyświetlenie kolejnego kontrahenta w tabeli kontrahentów
+jednoczesne wyświetlenie kolejnego kontrahenta w tabeli kontrahentów<br>
 v. Edycja kontrahenta ma spowodować modyfikację danych w bazie oraz
 jednocześnie zmianę w ramach wyświetlanego kontrahenta w tabeli
-kontrahentów.
+kontrahentów.<br>
 vi. Usunięcie kontrahenta ma powodować oznaczenie go w bazie danych jako
 usuniętego. Taki kontrahent nie ma być już wyświetlany w ramach tabeli na
-stronie www.
+stronie www.<br>
