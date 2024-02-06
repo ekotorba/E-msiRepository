@@ -5,7 +5,7 @@ class Connection
     private $host = 'serwer2466727.home.pl';
     private $db_name = '38150510_emsi';
     private $username = '38150510_emsi';
-    private $pass = '$w7sa3NMCxk';
+    private $pass = '';
 
     private $conn;
 
