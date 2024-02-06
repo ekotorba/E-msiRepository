@@ -1,0 +1,82 @@
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background: #0f172a;
+}
+
+.main-panel{
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+}
+
+.main-container {
+    display: flex;
+    width: 1300px;
+}
+
+.left-side {
+    width: 25%;
+    min-width: 300px;
+    padding: 1rem;
+    border-right:10px solid white;
+    font-size: 10pt;
+    border-radius: 10px;
+    background: #f5f5f5;
+}
+
+.left-side ul{
+    padding: 0;
+}
+
+.left-side a{
+    text-decoration: none;
+    color: black;
+}
+
+.left-side li{
+    list-style: none;
+    font-size: 12pt;
+    line-height: 2;
+}
+
+.right-side {
+    padding: 1rem;
+    width: 75%;
+    background: #f5f5f5;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.page-title{
+    margin-bottom: 25px;
+    justify-content: space-between;
+    display: flex
+}
+
+.page-title .btn,
+.page-title a,
+.page-title .colors-picker {
+    margin: auto 0;
+}
+
+.page-title h1{
+    font-weight: 700;
+    vertical-align: middle;
+    font-size: 22pt;
+    margin: 20px 0;
+}
+
+.html-controls .form-control{
+    margin: 10px 0;
+}
+
+.even {
+    background-color: var(--even-row-color, #f2f2f2);
+}
+
+.odd {
+    background-color: var(--odd-row-color, #ffffff);
+}
